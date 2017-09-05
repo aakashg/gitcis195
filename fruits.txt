@@ -1,6 +1,6 @@
 
 tomato
-orange
+Orange
 banana
 apple
 grape
